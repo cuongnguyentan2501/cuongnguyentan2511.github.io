@@ -280,7 +280,10 @@ div#play_button {
     transition: 0.4s;
     height: 0px;
     overflow: hidden;
+    height: 250px !important;
 }
+
+.menu_banner_botlr {}
 
 .menu_banner_botr {
     width: 100%;
