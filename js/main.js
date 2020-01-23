@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded',function(){
 	let isShowNaBar=false;
 	$('.menu_bar_ph').click(function(event) {
 		if(isShowNaBar==false){
-			$('.menu_banner_botlr').css('height', '240px');
+			$('.menu_banner_botlr').css('height', '250px');
 			isShowNaBar=true;
 		}
 		else{
